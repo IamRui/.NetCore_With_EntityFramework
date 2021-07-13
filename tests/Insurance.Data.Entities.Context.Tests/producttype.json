@@ -1,0 +1,37 @@
+[
+  {
+    "id": 21,
+    "name": "Laptops",
+    "canBeInsured": true
+  },
+  {
+    "id": 32,
+    "name": "Smartphones",
+    "canBeInsured": true
+  },
+  {
+    "id": 33,
+    "name": "Digital cameras",
+    "canBeInsured": true
+  },
+  {
+    "id": 35,
+    "name": "SLR cameras",
+    "canBeInsured": false
+  },
+  {
+    "id": 12,
+    "name": "MP3 players",
+    "canBeInsured": false
+  },
+  {
+    "id": 124,
+    "name": "Washing machines",
+    "canBeInsured": true
+  },
+  {
+    "id": 841,
+    "name": "Laptops",
+    "canBeInsured": false
+  }
+]

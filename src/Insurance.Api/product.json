@@ -1,0 +1,116 @@
+[
+  {
+    "id": 572770,
+    "name": "Samsung WW80J6400CW EcoBubble",
+    "salesPrice": 475,
+    "productTypeId": 124
+  },
+  {
+    "id": 715990,
+    "name": "Canon Powershot SX620 HS Black",
+    "salesPrice": 195,
+    "productTypeId": 33
+  },
+  {
+    "id": 725435,
+    "name": "Cowon Plenue D Gold",
+    "salesPrice": 299.99,
+    "productTypeId": 12
+  },
+  {
+    "id": 735246,
+    "name": "AEG L8FB86ES",
+    "salesPrice": 699,
+    "productTypeId": 124
+  },
+  {
+    "id": 735296,
+    "name": "Canon EOS 5D Mark IV Body",
+    "salesPrice": 2699,
+    "productTypeId": 35
+  },
+  {
+    "id": 767490,
+    "name": "Canon EOS 77D + 18-55mm IS STM",
+    "salesPrice": 749,
+    "productTypeId": 35
+  },
+  {
+    "id": 780829,
+    "name": "Panasonic Lumix DC-TZ90 Silver",
+    "salesPrice": 319,
+    "productTypeId": 33
+  },
+  {
+    "id": 805073,
+    "name": "Haier HW80-B14636",
+    "salesPrice": 449,
+    "productTypeId": 124
+  },
+  {
+    "id": 819148,
+    "name": "Nikon D3500 + AF-P DX 18-55mm f/3.5-5.6G VR",
+    "salesPrice": 469,
+    "productTypeId": 35
+  },
+  {
+    "id": 827074,
+    "name": "Samsung Galaxy S10 Plus 128 GB Black",
+    "salesPrice": 699,
+    "productTypeId": 32
+  },
+  {
+    "id": 828519,
+    "name": "Huawei P30 Lite 128 GB Black",
+    "salesPrice": 219,
+    "productTypeId": 32
+  },
+  {
+    "id": 832845,
+    "name": "Apple iPod Touch (2019) 32 GB Space Gray",
+    "salesPrice": 229,
+    "productTypeId": 12
+  },
+  {
+    "id": 836194,
+    "name": "Sony CyberShot DSC-RX100 VII",
+    "salesPrice": 1129,
+    "productTypeId": 33
+  },
+  {
+    "id": 836676,
+    "name": "Sandisk Clip Sport Plus Blue",
+    "salesPrice": 74.99,
+    "productTypeId": 12
+  },
+  {
+    "id": 837856,
+    "name": "Lenovo Chromebook C330-11 81HY000MMH",
+    "salesPrice": 299,
+    "productTypeId": 21
+  },
+  {
+    "id": 838978,
+    "name": "Asus ZenBook UX334FAC-A3066T",
+    "salesPrice": 1149,
+    "productTypeId": 841
+  },
+  {
+    "id": 858421,
+    "name": "Lenovo IdeaPad L340-15IRH Gaming 81LK01FUMH",
+    "salesPrice": 779,
+    "productTypeId": 21
+  },
+  {
+    "id": 859366,
+    "name": "OnePlus 8 Pro 128GB Black 5G",
+    "salesPrice": 886,
+    "productTypeId": 32
+  },
+  {
+    "id": 861866,
+    "name": "Apple MacBook Pro 13\" (2020) MXK52N/A Space Gray",
+    "salesPrice": 1749,
+    "productTypeId": 21
+  }
+]
